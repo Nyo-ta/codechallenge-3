@@ -10,3 +10,6 @@ A simple blog post manager built with HTML, CSS, and JavaScript, powered by a lo
 - View full details (title, content, author) on click
 - Add new blog posts via a submission form
 - Responsive layout and clean UI
+## Author
+
+samuel nyota 
