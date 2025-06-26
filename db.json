@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to My Blog",
+      "content": "This is the first post on my blog. Exciting times!",
+      "author": "Samuel Nyota",
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Tips",
+      "content": "Always declare your variables!",
+      "author": "Samuel Nyota",
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 3,
+      "title": "Coding Challenges",
+      "content": "Solving problems sharpens your skills.",
+      "author": "Samuel Nyota",
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 4,
+      "title": "Frontend Frameworks",
+      "content": "React, Vue, or Svelte? Each has its strengths.",
+      "author": "Samuel Nyota",
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 5,
+      "title": "Async JavaScript",
+      "content": "Promises, async/await — mastering these is key to modern JS.",
+      "author": "Samuel Nyota",
+      "image": "https://via.placeholder.com/300x150"
+    }
+  ]
+}
+
