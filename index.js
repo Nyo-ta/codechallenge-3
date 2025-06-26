@@ -21,6 +21,9 @@ function displayPosts() {
           handlePostClick(post);
         });
         list.appendChild(listContainer);
+        if(index === 0){
+            handlePostClick(post);
+        }
       });
     });
 }
