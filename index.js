@@ -14,7 +14,7 @@ function displayPosts() {
     .then(function (data) {
       const list = document.getElementById('post-list');
       list.innerHTML = "";
-      data.forEach(function (post) {
+      data.forEach(function (post, index) {
         const listContainer = document.createElement('li');
         listContainer.textContent = post.title;
         listContainer.addEventListener('click', function () {
